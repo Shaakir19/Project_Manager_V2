@@ -1,0 +1,5 @@
+Shaakir Caroto,0657895434,kyle@gmial.com,45 Via
+Max Pyne,0765432369,max@gmail.com,78 Maxwell Drive
+John Smith,0679666345,alam@gmail.com,456 Alam Way
+John Smith,0769886469,johnSmith@gmail.com,45 Valencia Estate
+Serge Thomas,0876545643,sergeKing@gmail.com,45 Maxwell Drive

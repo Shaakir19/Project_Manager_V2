@@ -1,0 +1,1 @@
+2,House Thomas,House,56 Peterson road,980765567432123456789,09/10/2021,60000.0,50000.0,0,Finalised,Completed,07/10/2021
